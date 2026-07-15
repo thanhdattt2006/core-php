@@ -1,5 +1,5 @@
 <?php
-echo "--- 2. STRINGS: SINGLE VS DOUBLE QUOTES ---\n";
+echo "--- 1.2. STRINGS: SINGLE VS DOUBLE QUOTES ---\n";
 
 $course = "ADSE at Aptech";
 

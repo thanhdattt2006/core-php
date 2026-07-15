@@ -1,5 +1,5 @@
 <?php
-echo "--- 3. KEY OPERATORS ---\n";
+echo "--- 1.3. KEY OPERATORS ---\n";
 
 $a = 5;       
 $b = "5";     

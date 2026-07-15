@@ -1,5 +1,5 @@
 <?php
-echo "--- 4. TERMINAL DEBUGGING ---\n";
+echo "--- 1.4. TERMINAL DEBUGGING ---\n";
 
 $team = ['Toại', 'Thại', 'Cường', 'Huy'];
 
